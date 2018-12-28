@@ -13,7 +13,7 @@ text-align: center;
 height: 100%;
 	}
 
-.fat{
+.fat,.call{
 	margin-top: 20px;
 	font-family: 'Charm', cursive;
 	font-size: 3em;
@@ -24,11 +24,7 @@ height: 100%;
 
 .call{
 	margin-top: 0px;
-	font-family: 'Charm', cursive;
-	font-size: 3em;
-	color:#eeeeee;
-	background-color: rgba(0,0,0,0.5);
-
+	color: #eeeeee;
 }
 
 .btn-outline-primary{
